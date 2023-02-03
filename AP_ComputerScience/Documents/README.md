@@ -2,5 +2,5 @@
 
 Document and link | Description
 ----------------- | -----------
-[Competency Reflections](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi) | Reflect on your skills / competencies
+[Competency Reflections](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/AP_ComputerScience/Documents/CompetenciesReflection-APComputerScience.doc) | Reflect on your skills / competencies
 [Project Rubric](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi) | Rubric to use with all projects
