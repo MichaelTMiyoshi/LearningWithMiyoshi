@@ -64,3 +64,7 @@ This is a reproduction of the advanced design document rubric.
     <td>The design and learning process is described with ample detail in such a way that readers can learn from the written document and any accompanying materials.</td>
   </tr>
 </table>
+
+Download and include the rubric document and include it with your design document.
+
+The design document may be formatted according to the student’s liking.  However, please use a font no smaller than 9 point and no larger than 12 point.  Fonts with serifs are somewhat easier to read.
