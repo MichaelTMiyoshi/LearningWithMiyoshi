@@ -48,15 +48,25 @@ The competency chart is repeated below but with a twist.  The twist is that the 
   </tr>
   <tr>
     <td>Grading Criterion</td>
-    <td>50%</td>
-    <td>62.5%</td>
-    <td>75%</td>
-    <td>87.5%</td>
-    <td>100%</td>
+    <td align="right">50%</td>
+    <td align="right">62.5%</td>
+    <td align="right">75%</td>
+    <td align="right">87.5%</td>
+    <td align="right">100%</td>
   </tr>
 </table>
 
 The percentages you see are what I use in my grading.  Rather, I use the points associated with the assignment/project multiplied by that percentage.  And with larger projects, there are multiple elements or grading criteria that get multiplied by the percentages and those numbers get added up to form the final grade.
+
+## Categories
+
+As of this writing (February 2023), I have four categories for most of my classes.  They are weighted according to the following chart.
+
+Class | Assignments | Competency | Projects | Leadership
+----- | ----------: | ---------: | -------: | ---------:
+AP Comp Sci | 25% | 25% | 25% | 25%
+Game & App Dev | 20% | 20% | 35% | 25%
+Adv Arch & Engr Des | 0% | 0% | 75% | 25%
 
 
 
