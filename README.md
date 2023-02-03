@@ -68,7 +68,17 @@ AP Comp Sci | 25% | 25% | 25% | 25%
 Game & App Dev | 20% | 20% | 35% | 25%
 Adv Arch & Engr Des | 0% | 0% | 75% | 25%
 
+A change that I am planning to make in the coming year is to change those percentages as follows (I include my introductory classes as well):
 
+Class | Assignments | Competency | Projects | Leadership
+----- | ----------: | ---------: | -------: | ---------:
+AP Comp Sci | 0% | 20% | 60% | 20%
+Game & App Dev | 0% | 0% | 80% | 20%
+Intro Comp Prog | 0% | 20% | 60% | 20%
+Adv Arch & Engr Des (II, III, IV, V) | 0% | 0% | 80% | 20%
+Arch & Engr Des I | 0% | 20% | 60% | 20%
+
+These percentages will hopefully give my students the freedom to explore ways to increase their skills, create more advanced projects, and be more creative.  The new percentages are also designed to be more equitable in my grading.  (Read the book <i>Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms</i> by Joe Feldman.)
 
 ### Note to educators
 
