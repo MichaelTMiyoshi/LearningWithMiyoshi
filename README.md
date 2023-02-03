@@ -8,7 +8,7 @@ Below are some explantory notes about competency grading.  And at the bottom are
 
 ## Competency Grading
 
-Here is a brief explanation of competency grading.
+Here is a brief explanation of competency grading.  (At least how I implement it.)
 
 The table below shows the skill levels that a student can have in various skills (also called competencies).  In the beginning, students may have had some exposure to these skills, but the goal is to develop those skills to the mastery level.  The level where the student can teach somebody else the skill.
 
