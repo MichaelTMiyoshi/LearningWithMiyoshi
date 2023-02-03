@@ -4,6 +4,8 @@ In the beginning, this is where I am housing much of my public materials for my 
 
 There are folders for each of the different classes that I teach.  Each class also has folders with documents that people can download.
 
+Below are some explantory notes about competency grading.  And at the bottom are some notes for educators and a reference section.
+
 ## Competency Grading
 
 Here is a brief explanation of competency grading.
@@ -85,3 +87,11 @@ One other note on the percentages.  The competency grades for Game & App Dev and
 ### Note to educators
 
 If you are an educator, feel free to use any of the materials that I have here.  It would be great if you documented your source.  (Which is why I license the repository with the MIT license.)  I have surely not just created my stuff completely from my own brain, but I do not know exactly where things come from.  I do have a resources for educators section that tries to at least document some important resources that have shaped my thinking about education and learning.
+
+### References
+
+I hope to have more references here in the future, but here are a few.  I am not including links because I am not listing the books to advertise or promote anybody (including myself).  I just want people to be aware of some of the resources I use.  Either to edify myself as a teacher or that I use in my classroom.
+
+* <i>Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms</i> by Joe Feldman
+* <i>Building Java Programs: A Back to Basics Approach</i> by Stuart Reges and Marty Stepp
+* <i>C# with Miyoshi</i> by Michael T. Miyoshi
