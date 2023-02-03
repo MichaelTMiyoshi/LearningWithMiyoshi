@@ -78,7 +78,7 @@ Intro Comp Prog | 0% | 20% | 60% | 20%
 Adv Arch & Engr Des (II, III, IV, V) | 0% | 0% | 80% | 20%
 Arch & Engr Des I | 0% | 20% | 60% | 20%
 
-These percentages will hopefully give my students the freedom to explore ways to increase their skills, create more advanced projects, and be more creative.  The new percentages are also designed to be more equitable in my grading.  (Read the book <i>Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms</i> by Joe Feldman.)
+These percentages will hopefully give my students the freedom to explore different ways to increase their skills, create more advanced projects, and be more creative.  The new percentages are also designed to be more equitable in my grading.  (Read the book <i>Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms</i> by Joe Feldman.)
 
 One other note on the percentages.  The competency grades for Game & App Dev and Adv Arch & Engr Des are not really 0%.  They are evaluated with a portfolio.  And when I implement the portfolio for my programming students, they and the advanced architectural and engineering design students will write a reflection on their competencies/skill based on the appropriate rubric and reflection document.
 
