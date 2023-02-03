@@ -80,6 +80,8 @@ Arch & Engr Des I | 0% | 20% | 60% | 20%
 
 These percentages will hopefully give my students the freedom to explore ways to increase their skills, create more advanced projects, and be more creative.  The new percentages are also designed to be more equitable in my grading.  (Read the book <i>Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms</i> by Joe Feldman.)
 
+One other note on the percentages.  The competency grades for Game & App Dev and Adv Arch & Engr Des are not really 0%.  They are evaluated with a portfolio.  And when I implement the portfolio for my programming students, they and the advanced architectural and engineering design students will write a reflection on their competencies/skill based on the appropriate rubric and reflection document.
+
 ### Note to educators
 
 If you are an educator, feel free to use any of the materials that I have here.  It would be great if you documented your source.  (Which is why I license the repository with the MIT license.)  I have surely not just created my stuff completely from my own brain, but I do not know exactly where things come from.  I do have a resources for educators section that tries to at least document some important resources that have shaped my thinking about education and learning.
