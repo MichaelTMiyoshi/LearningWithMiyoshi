@@ -7,4 +7,5 @@ So what will you find here?  Look at the chart below to find out.
 Document and link | Description
 ----------------- | -----------
 [Competency Reflections](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/AP_ComputerScience/Documents/CompetenciesReflection-APComputerScience.docx) | Reflect on your skills / competencies
-[Project Rubric](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/_CommonDocuments/Rubric-AdvancedDesignDoc.docx) | Rubric to use with all projects
+[Project Rubric document](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/_CommonDocuments/Rubric-AdvancedDesignDoc.docx) | Rubric to use with all projects (download)
+[Project Rubric view](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/_CommonDocuments/Rubric-AdvancedDesignDoc.md) | Rubric to use with all projects (view in browser)
