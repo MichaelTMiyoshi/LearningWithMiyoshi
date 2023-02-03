@@ -10,7 +10,7 @@ Below are some explantory notes about competency grading.  And at the bottom are
 
 Here is a brief explanation of competency grading.  (At least how I implement it.)
 
-The table below shows the skill levels that a student can have in various skills (also called competencies).  In the beginning, students may have had some exposure to these skills, but the goal is to develop those skills to the mastery level.  The level where the student can teach somebody else the skill.
+The table below shows the skill levels that a student can have in various skills (also called competencies).  In the beginning, students may have had some exposure to these skills or none at all, but the goal is to develop those skills to the mastery level.  The level where the student can teach somebody else the skill.
 
 <table>
   <tr>
@@ -86,7 +86,7 @@ One other note on the percentages.  The competency grades for Game & App Dev and
 
 ### Note to educators
 
-If you are an educator, feel free to use any of the materials that I have here.  It would be great if you documented your source.  (Which is why I license the repository with the MIT license.)  I have surely not just created my stuff completely from my own brain, but I do not know exactly where things come from.  I do have a resources for educators section that tries to at least document some important resources that have shaped my thinking about education and learning.
+If you are an educator, feel free to use any of the materials that I have here.  It would be great if you documented your source.  (Which is why I license the repository with the MIT license.)  I have surely not just created my stuff completely from my own brain, but I do not know exactly where things come from.  I do have a resources for educators section that tries to at least document some important resources that have shaped my thinking about education and learning.  Or that I use in my classroom.  (I repeated that below, but I was planning on making a separate page.)
 
 ### References
 
