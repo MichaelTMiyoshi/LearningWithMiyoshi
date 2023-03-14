@@ -63,6 +63,14 @@ This is a reproduction of the advanced design document rubric.
     <td>The design and learning process is described with ample detail.</td>
     <td>The design and learning process is described with ample detail in such a way that readers can learn from the written document and any accompanying materials.</td>
   </tr>
+  <tr>
+    <td>Drawings / Models / 3D Prints / Programs (4X)</td>
+    <td>No Drawings / Models / 3D Prints / Programs.</td>
+    <td>Little progress on Drawings / Models / 3D Prints / Programs.</td>
+    <td>Some progress on Drawings / Models / 3D Prints / Programs.</td>
+    <td>Drawings / Models / 3D Prints / Programs are adequate evidence to demonstrate learning and product goals have been met.</td>
+    <td>Drawings / Models / 3D Prints / Programs are ample evidence to demonstrate learning and product goals have been met and/or exceeded.</td>
+  </tr>
 </table>
 
 Download and include the rubric document and include it with your design document.
