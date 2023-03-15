@@ -64,7 +64,7 @@ This is a reproduction of the advanced design document rubric.
     <td>The design and learning process is described with ample detail in such a way that readers can learn from the written document and any accompanying materials.</td>
   </tr>
   <tr>
-    <td>Drawings / Models / 3D Prints / Programs (4X)</td>
+    <td>Product(s) - Drawings / Models / 3D Prints / Programs (4X)</td>
     <td>No Drawings / Models / 3D Prints / Programs.</td>
     <td>Little progress on Drawings / Models / 3D Prints / Programs.</td>
     <td>Some progress on Drawings / Models / 3D Prints / Programs.</td>
