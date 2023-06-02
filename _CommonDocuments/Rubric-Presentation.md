@@ -17,35 +17,35 @@ This is a reproduction of the presentation rubric.
   </tr>
   <tr>
     <td>Attention Grabber</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>No attention grabber</td>
+    <td>Weak or inappropriate</td>
+    <td>Somewhat appropriate</td>
+    <td>Adequate.</td>
+    <td>Outstanding attention grabber that makes the audience want to pay attention.</td>
   </tr>
   <tr>
     <td>Overview</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>No overview</td>
+    <td>Weak or inappropriate</td>
+    <td>Somewhat tells the audience the direction of the presentation</td>
+    <td>Tells the audience the direction of the presentation, but gives it as an outline.</td>
+    <td>Tells the audience the direction of the presentation without just giving an outline of the topics.</td>
   </tr>
   <tr>
     <td>Conclusion</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>No conclusion.  Presentation ends abruptly.</td>
+    <td>Weak or inappropriate</td>
+    <td>Somewhat appropriate</td>
+    <td>Adequate</td>
+    <td>Conclusion wraps up the presentation and connects to attention grabber.</td>
   </tr>
   <tr>
     <td>Confidence</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Presentation is read or the presenter is not understandable</td>
+    <td>Presenter reads and/or is barely understandable</td>
+    <td>Presenter knows material, but does not convey this confidence throughout</td>
+    <td>Presenter knows material and mostly conveys confidence throughout</td>
+    <td>Presenter knows the material and presents with confidence throughout presentation and questions.</td>
   </tr>
   <tr>
     <td>Product Goals (What do you want to accomplish?)</td>
