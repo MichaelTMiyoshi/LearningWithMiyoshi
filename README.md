@@ -4,7 +4,9 @@ In the beginning, this is where I am housing much of my public materials for my 
 
 There are folders for each of the different classes that I teach.  Each class also has folders with documents that people can download.
 
-Below are some explantory notes about competency grading.  And at the bottom are some notes for educators and a reference section.
+## Student work
+
+Links to student public repositories are on this [page](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/StudentProjectRepos.md).
 
 ## Competency Grading
 
