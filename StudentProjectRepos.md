@@ -7,6 +7,7 @@ Name | Project Link | Description
 ---- | ------------ | -----------
 Adam | [Isometric Game](https://github.com/PolnerA/Game) | Isometric game based on Williams Game Engine
 Adam | [3D Engine](https://github.com/PolnerA/3D-Engine) | 3D engine based on Williams Game Engine
+Akshya | [DW's Diamond Dig](https://github.com/Akshya0622/DWsDiamondDig) | Graphics game done in Java
 
 ### Architectural & Engineering Projects
 Name | Project Link | Description
