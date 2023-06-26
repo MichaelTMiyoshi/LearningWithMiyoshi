@@ -10,6 +10,8 @@ Adam | [3D Engine](https://github.com/PolnerA/3D-Engine) | 3D engine based on Wi
 Akshya | [DW's Diamond Dig](https://github.com/Akshya0622/DWsDiamondDig) | Graphics game done in Java (AP CS Final Project)
 Tristen | [SFML Game Engine](https://github.com/TristenYim/WilliamsGameEngine.CSharp/tree/master) | Graphics Game Engine using SFML (AP CS Final Project)
 Rachel | [Community Bible Searcher](https://github.com/krivanekr/Community-Bible-Searcher) | Bible Word and Verse search with community connections (AP CS Final Project)
+Karik | [Particle System](https://github.com/KarikFreiheit/Particle_System) | Particle System (AP CS Final Project)
+Joey | [Unity FPS](https://github.com/Joey574/First-FPS) | FPS Unity (AP CS Final Project)
 
 ### Architectural & Engineering Projects
 Name | Project Link | Description
