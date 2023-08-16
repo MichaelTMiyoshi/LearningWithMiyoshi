@@ -68,27 +68,21 @@ As of this writing (February 2023), I have four categories for most of my classe
 
 Class | Assignments | Competency | Projects | Leadership
 ----- | ----------: | ---------: | -------: | ---------:
-AP Comp Sci | 25% | 25% | 25% | 25%
-Game & App Dev | 20% | 20% | 35% | 25%
-Adv Arch & Engr Des | 0% | 0% | 75% | 25%
-
-A change that I am planning to make in the coming year is to change those percentages as follows (I include my introductory classes as well):
-
-Class | Assignments | Competency | Projects | Leadership
------ | ----------: | ---------: | -------: | ---------:
 AP Comp Sci | 0% | 20% | 60% | 20%
 Game & App Dev | 0% | 0% | 80% | 20%
 Intro Comp Prog | 0% | 20% | 60% | 20%
 Adv Arch & Engr Des (II, III, IV, V) | 0% | 0% | 80% | 20%
 Arch & Engr Des I | 0% | 20% | 60% | 20%
 
-These percentages will hopefully give my students the freedom to explore different ways to increase their skills, create more advanced projects, and be more creative.  The new percentages are also designed to be more equitable in my grading.  (Read the book <i>Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms</i> by Joe Feldman.)
+These percentages are designed to give my students the freedom to explore different ways to increase their skills, create more advanced projects, and be more creative.  The percentages are also designed to be more equitable in my grading.  (Read the book <i>Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms</i> by Joe Feldman.)  I have an additional requirement that Joe Feldman does not have for minimum scores.  Students will get the minimum score of 50% in the competency and projects if they have done either assignments (competency) or projects (competency and project).  Students who have not shown specific competence through either of these avenues will receive a 0 for that particular skill until the skill has at least been attempted.
+
+Another note is that grades in my class are not static.  In other words, students may take competency tests multiple times and will receive highest grades they achieve.  I allow one edit per project grade unless the project is turned in during the lass week of the grading period.
 
 One other note on the percentages.  The competency grades for Game & App Dev and Adv Arch & Engr Des are not really 0%.  They are evaluated with a portfolio.  And when I implement the portfolio for my programming students, they and the advanced architectural and engineering design students will write a reflection on their competencies/skill based on the appropriate rubric and reflection document.
 
 ### Note to educators
 
-If you are an educator, feel free to use any of the materials that I have here.  It would be great if you documented your source.  (Which is why I license the repository with the MIT license.)  I have surely not just created my stuff completely from my own brain, but I do not know exactly where things come from.  I do have a resources for educators section that tries to at least document some important resources that have shaped my thinking about education and learning.  Or that I use in my classroom.  (I repeated that below, but I was planning on making a separate page.)
+If you are an educator, feel free to use any of the materials that I have here.  It would be great if you documented your source.  (Which is why I license the repository with the MIT license.)  I have surely not just created my stuff completely from my own brain, but I do not know exactly where everything come from.  I do have a resources for educators section that tries to at least document some important resources that have shaped my thinking about education and learning.  Or that I use in my classroom.  (I repeated that below, but I may create a separate page if the section gets too long.)
 
 ### References
 
