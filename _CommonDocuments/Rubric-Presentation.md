@@ -1,4 +1,4 @@
-# Rubric - Advanced Design Document
+# Rubric - Presentation
 
 This is a reproduction of the presentation rubric.
 
@@ -94,5 +94,21 @@ This is a reproduction of the presentation rubric.
     <td>Some progress on Drawings / Models / 3D Prints / Programs.</td>
     <td>Drawings / Models / 3D Prints / Programs are adequate evidence to demonstrate learning and product goals have been met.</td>
     <td>Drawings / Models / 3D Prints / Programs are ample evidence to demonstrate learning and product goals have been met and/or exceeded.</td>
+  </tr>
+  <tr>
+    <td>Penalties (from raw score)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Intro project presentations do not have song (-4)</td>
+    <td>Does not meet time requirements (-4)</td>
+  </tr>
+  <tr>
+    <td>Final Score (out of 40)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
