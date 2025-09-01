@@ -64,15 +64,15 @@ The percentages you see are what I use in my grading.  Rather, I use the points 
 
 ## Categories
 
-As of this writing (February 2023), I have four categories for most of my classes.  They are weighted according to the following chart.
+I have five categories for my classes.  They are weighted according to the following chart:
 
-Class | Assignments | Competency | Projects | Leadership
------ | ----------: | ---------: | -------: | ---------:
-AP Comp Sci | 0% | 20% | 60% | 20%
-Game & App Dev | 0% | 0% | 80% | 20%
-Intro Comp Prog | 0% | 20% | 60% | 20%
-Adv Arch & Engr Des (II, III, IV, V) | 0% | 0% | 80% | 20%
-Arch & Engr Des I | 0% | 20% | 60% | 20%
+Class | Professionalism | Leadership | Assignments | Competency | Projects 
+----- | --------------: | ---------: | ----------: | ---------: | -------:
+AP Comp Sci | 10% | 15% | 0% | 20% | 55%
+Game & App Dev | 10% | 15% | 0% | 20% | 55%
+Intro Comp Prog | 10% | 15% | 20% | 20% | 35%
+Adv Arch & Engr Des (II, III, IV, V) | 10% | 15% | 0% | 20% | 55%
+Arch & Engr Des I | 10% | 15% | 20% | 20% | 35%
 
 These percentages are designed to give my students the freedom to explore different ways to increase their skills, create more advanced projects, and be more creative.  The percentages are also designed to be more equitable in my grading.  (Read the book <i>Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms</i> by Joe Feldman.)  I have an additional requirement that Joe Feldman does not have for minimum scores.  Students will get the minimum score of 50% in the competency and projects if they have done either assignments (competency) or projects (competency and project).  Students who have not shown specific competence through either of these avenues will receive a 0 for that particular skill until the skill has at least been attempted.
 
