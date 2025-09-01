@@ -1,4 +1,4 @@
-# Computer Programming (CMP365, 366)/App and Game Development (CMP371)
+# Computer Programming (CMP365, 366)/Game and App Development (CMP371)
 
 <table>
  <tr>
