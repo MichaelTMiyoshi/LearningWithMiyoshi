@@ -124,226 +124,148 @@ Specify, define, implement, and use simple classes
 
 ### AP Computer Science 
 
-Concepts/Units |
--------------- |
-Assignments/Programs 
-General/Review 
-Java vs. C++ 
-Binary, Decimal, Octal, Hexadecimal numbers 
-Data types and their ranges 
-Hardware 
-Computer Languages – Compilers/translators 
-Systems 
-Ethical, moral, social implications of computing 
-“Hello World” using Java 
-Convert numbers between bases 
-
- 
-
-Write programs that use different data types (including typecasting), such as determining number of busses for a trip, finding the energy equivalent of mass, and n-sided die roll simulation. 
-
-Discuss ethical moral, social implications of computing, including viruses, Trojan horses, privacy, intellectual property, public safety, etc.  Paper discussing these issues may be assigned in lieu or in addition to class discussion. 
-
-Object-Oriented Programming 
-
-Specify purpose and goals for problems 
-
-Understand class specifications and relationships 
-
-Implement given class hierarchy 
-
-Use class libraries 
-
- 
-
- 
-
-Break down problems into manageable pieces.  Write programs using OOP paradigm and classes, including Convert from Celsius to Fahrenheit and Fahrenheit to Celsius. 
-
-Java classes 
-
-Design and implement a class 
-
-Interface design 
-
-Choose appropriate data representations and algorithms 
-
-Extend classes using inheritance 
-
-Design and implement interacting classes to solve problems including case study 
-
-Methods 
-
-Using libraries (including but not limited to AP subset of classes – util, Math, Random, List, etc.) 
-
- 
-
- 
-
-Create simple classes.  Implement programs that use these simple classes including geometric calculator that finds surface area and volume of various solids.  Modify case study code.  Create simple games such as tic-tac-toe. 
-
-Variables, Constants, and Objects 
-
-Developing object-oriented programs 
-
-Using encapsulation and information hiding 
-
-Declaration and initialization/instantiation 
-
- 
-
- 
-
-Create programs that use objects as well as variables and constants.  Create programs such as Role Playing Game and address book. 
-
-Input and Output 
-
-Console I/O 
-
-“Window” interface 
-
- 
-
- 
-
-Get input, send output to screen, files, etc.  Use console and window interface in programs depending on situation, requirements, etc. 
-
-Controls 
-
-Making decisions (conditionals) 
-
-Looping/Iteration 
-
-Recursion 
-
- 
-
- 
-
-Use appropriate controls in code depending on specific needs in programs.  Create series generators such as Fibonacci series using both looping and recursion methods. 
-
-Testing 
-
-Debugging 
-
-Errors – syntax, run-time 
-
-Modifying code 
-
-Exception handling 
-
-Pre-conditions, post-conditions 
-
- 
-
- 
-
-Test and debug own code and code written by others.  Look at code segments to determine different errors.  Write code for error and exception handling, such as looping until correct input is given.  Include pre- and post-conditions in descriptions of classes written. 
-
-Big-O Notation – Space and Time analysis 
-
-Understanding tradeoffs 
-
-Worst-case and average-case analysis 
-
- 
-
- 
-
-Compare code segments to determine Big-O designation.  Analyze own code to see if optimizations can be made.  Analyze code with worst-case and average case data. 
-
-Searching 
-
-Sequential 
-
-Binary 
-
-Hashing 
-
- 
-
- 
-
-Write and analyze searching code using different search techniques, including searching for highest and lowest values. 
-
-Sorting 
-
-Selection 
-
-Insertion 
-
-Mergesort 
-
-Quicksort 
-
-Heapsort 
-
- 
-
- 
-
-Write and analyze sorting code using different sorting algorithms, including sorting numbers and strings. 
-
-Advanced Data structures (including traversals, insertions, deletions, and iterators) 
-
-Arrays and matrices – ArrayLists, multi-dimensional arrays 
-
-Linked Lists 
-
-Stacks 
-
-Queues 
-
-Trees 
-
-Heaps 
-
-Priority Queues 
-
-Sets 
-
-Maps 
-
- 
-
- 
-
- 
-
-Use advanced data structures in code.  Hand trace own and other’s code to predict outcomes and debug programs.  Choose appropriate structures for different applications.  Create code to do matrix multiplication, store queue simulations, and other applications.   
-
-Application 
-
-Use concepts to write useful programs to solve specific problems 
-
-Case Study for AP Computer Science A and AB test using above concepts 
-
-Observing and experimenting with Gridworld 
-
-Bug variations 
-
-Gridworld classes and interfaces 
-
-Interacting objects 
-
-Grid Data Structures 
-
- 
-
- 
-
-Hand write code to show proficiency in different techniques. 
-
- 
-
- 
-
-Read parts 1-4 of Gridworld case study. 
-
-Create and/or modify code for Gridworld case study.  Modify bugs, classes, etc.  Use various skills and techniques to change Gridworld in interesting ways. 
-
- 
-
- 
-
- 
+<table>
+ <tr>
+  <td>Concepts/Units</td>
+  <td>Assignments/Programs</td>
+ </tr>
+ <tr>
+  <td><b>General/Review</b><br />
+* Java vs. C++ <br />
+* Binary, Decimal, Octal, Hexadecimal numbers <br />
+* Data types and their ranges <br \>
+* Hardware <br />
+* Computer Languages – Compilers/translators <br />
+* Systems <br />
+* Ethical, moral, social implications of computing</td>
+  <td>
+   <br />* “Hello World” using Java <br />
+* Convert numbers between bases <br />
+* Write programs that use different data types (including typecasting), such as determining number of busses for a trip, finding the energy equivalent of mass, and n-sided die roll simulation. <br />
+* Discuss ethical moral, social implications of computing, including viruses, Trojan horses, privacy, intellectual property, public safety, etc.  Paper discussing these issues may be assigned in lieu or in addition to class discussion. <br />
+  </td>
+ </tr>
+ <tr><td><b>Object-Oriented Programming</b><br />
+* Specify purpose and goals for problems <br />
+* Understand class specifications and relationships <br />
+* Implement given class hierarchy <br />
+* Use class libraries <br />
+  </td> 
+  <td>
+* Break down problems into manageable pieces.  Write programs using OOP paradigm and classes, including Convert from Celsius to Fahrenheit and Fahrenheit to Celsius. 
+  </td> 
+ </tr>
+ <tr>
+  <td><b>Java classes</b><br />
+* Design and implement a class <br />
+* Interface design <br />
+* Choose appropriate data representations and algorithms <br />
+* Extend classes using inheritance <br />
+* Design and implement interacting classes to solve problems including case study <br />
+* Methods <br />
+* Using libraries (including but not limited to AP subset of classes – util, Math, Random, List, etc.)
+  </td>
+  <td>
+* Create simple classes.  Implement programs that use these simple classes including geometric calculator that finds surface area and volume of various solids.  Modify case study code.  Create simple games such as tic-tac-toe. 
+  </td>
+ </tr>
+ <tr>
+  <td><b>Variables, Constants, and Objects</b>
+ * Developing object-oriented programs <br />
+ * Using encapsulation and information hiding <br />
+ * Declaration and initialization/instantiation <br />
+  </td>
+  <td>
+   Create programs that use objects as well as variables and constants.  Create programs such as Role Playing Game and address book. 
+  </td>
+ </tr>
+ <tr>
+  <td><b>Input and Output</b><br />
+ * Console I/O <br />
+ * “Window” interface<br /> 
+  </td>
+  <td>
+   Get input, send output to screen, files, etc.  Use console and window interface in programs depending on situation, requirements, etc. 
+  </td>
+ </tr>
+ <tr>
+  <td><b>Controls</b><br />
+ * Making decisions (conditionals) <br />
+ * Looping/Iteration <br />
+ * Recursion <br />
+  </td>
+  <td>
+   Use appropriate controls in code depending on specific needs in programs.  Create series generators such as Fibonacci series using both looping and recursion methods. 
+  </td>
+ </tr>
+ <tr>
+  <td><b>Testing</b><br />
+ * Debugging <br />
+ * Errors – syntax, run-time <br />
+ * Modifying code <br />
+ * Exception handling <br />
+ * Pre-conditions, post-conditions <br />
+  </td>
+  <td>
+Test and debug own code and code written by others.  Look at code segments to determine different errors.  Write code for error and exception handling, such as looping until correct input is given.  Include pre- and post-conditions in descriptions of classes written.    
+  </td>
+ </tr>
+ <tr>
+  <td><b>Big-O Notation – Space and Time analysis</b><br />
+ * Understanding tradeoffs <br />
+ * Worst-case and average-case analysis <br />
+  </td>
+  <td>
+   Compare code segments to determine Big-O designation.  Analyze own code to see if optimizations can be made.  Analyze code with worst-case and average case data. 
+  </td>
+ </tr>
+ <tr>
+  <td><b>Searching</b><br />
+ * Sequential <br />
+ * Binary <br />
+ * Hashing <br />
+  </td>
+  <td>
+   Write and analyze searching code using different search techniques, including searching for highest and lowest values.
+  </td>
+ </tr>
+ <tr>
+  <td><b>Sorting</b><br />
+ * Selection <br />
+ * Insertion <br />
+ * Mergesort <br />
+ * Quicksort <br />
+ * Heapsort <br />
+  </td>
+  <td>
+   Write and analyze sorting code using different sorting algorithms, including sorting numbers and strings. 
+  </td>
+ </tr>
+ <tr>
+  <td><b>Advanced Data structures (including traversals, insertions, deletions, and iterators)</b>
+ * Arrays and matrices – ArrayLists, multi-dimensional arrays <br />
+ * Linked Lists <br />
+ * Stacks <br />
+ * Queues <br />
+ * Trees <br />
+ * Heaps <br />
+ * Priority Queues <br />
+ * Sets <br />
+ * Maps 
+  </td>
+  <td>
+   Use advanced data structures in code.  Hand trace own and other’s code to predict outcomes and debug programs.  Choose appropriate structures for different applications.  Create code to do matrix multiplication, store queue simulations, and other applications.   
+  </td>
+ </tr>
+ <tr>
+  <td><b>Application</b><br />
+ * Use concepts to write useful programs to solve specific problems <br />
+ * Bug variations <br />
+ * Interacting objects <br />
+ * Grid Data Structures 
+  </td>
+  <td>
+Hand write code to show proficiency in different techniques.    
+  </td>
+ </tr>
+</table>
