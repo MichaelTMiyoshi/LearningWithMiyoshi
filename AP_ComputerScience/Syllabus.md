@@ -34,8 +34,8 @@ Other texts and supplements as needed <br /></td>
  <tr>
   <td>Online Resources:</td>
   <td>(no login credentials needed to access public GitHub resources) <br />
-[GitHub](https://github.com/MichaelTMiyoshi) <br />
-[Java with Miyoshi Repository](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi) <br />
+<a href="https://github.com/MichaelTMiyoshi">Miyoshi GitHub</a> <br />
+<a href="https://github.com/MichaelTMiyoshi/JavaWithMiyoshi">Java with Miyoshi Repository</a> <br />
   </td>
  </tr>
 </table>
