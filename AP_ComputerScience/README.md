@@ -6,6 +6,7 @@ So what will you find here?  Look at the chart below to find out.
 
 Document and link | Description
 ----------------- | -----------
+[Syllabus](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/AP_ComputerScience/2026APCSSyllabus.docx) | AP Computer Science Syllabus (MS Word)
 [Competency Reflections](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/AP_ComputerScience/CompetenciesReflection-APComputerScience.docx) | Reflect on your skills / competencies
 [Project Rubric document](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/_CommonDocuments/Rubric-AdvancedDesignDoc.docx) | Rubric to use with all projects (download)
 [Project Rubric view](https://github.com/MichaelTMiyoshi/LearningWithMiyoshi/blob/main/_CommonDocuments/Rubric-AdvancedDesignDoc.md) | Rubric to use with all projects (view in browser)
