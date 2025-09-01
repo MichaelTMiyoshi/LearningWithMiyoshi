@@ -142,96 +142,96 @@ The following competencies are the skills that students are expected to gain whe
 <table>
  <tr>
   <td>
-<b>Understands Terms and Uses Equipment Properly: </b><br >
-11101  Understands drafting equipment and use.    <br >
+<b>Understands Terms and Uses Equipment Properly: </b><br />
+11101  Understands drafting equipment and use.    <br />
   </td>
  </tr>
  <tr>
   <td>
-<b>Sketches and Uses Orthographic Skills: </b><br >
-11103  Understands basic orthographic skills as shown by completion of assignments.  <br >
-13119  Identifies and utilizes lines and surfaces throughout adjacent orthographic views  <br >  
+<b>Sketches and Uses Orthographic Skills: </b><br />
+11103  Understands basic orthographic skills as shown by completion of assignments.  <br />
+13119  Identifies and utilizes lines and surfaces throughout adjacent orthographic views  <br />  
   </td>
  </tr>
  <tr>
   <td>
-<b>Sets Up CAD Software and Drawings: </b><br >
-13101  Starts, boots, and runs CAD software <br >
-13102  Saves and manipulates files in computer environment <br >
-13103  Selects appropriate units of measurement for drawings <br >
-13104  Sets up the drawing environment (units, limits, grid, and snap) <br >
-13105  Creates and uses layers to organize information in a drawing <br >
-13106  Selects appropriate linetypes <br >
-13207  Arranges multiple views of a figure on screen at one time <br >
-13210  Places XYZ drawing axis to best advantage on 3D drawings <br >
-13212  Sets up drawings to use in shading and rendering programs <br >
+<b>Sets Up CAD Software and Drawings: </b><br />
+13101  Starts, boots, and runs CAD software <br />
+13102  Saves and manipulates files in computer environment <br />
+13103  Selects appropriate units of measurement for drawings <br />
+13104  Sets up the drawing environment (units, limits, grid, and snap) <br />
+13105  Creates and uses layers to organize information in a drawing <br />
+13106  Selects appropriate linetypes <br />
+13207  Arranges multiple views of a figure on screen at one time <br />
+13210  Places XYZ drawing axis to best advantage on 3D drawings <br />
+13212  Sets up drawings to use in shading and rendering programs <br />
   </td>
  </tr>
  <tr>
   <td>
-<b>Draws Geometric Entities: </b><br >
-11102  Show proficiency of lettering, sketching, construction geometry, scaling, and line conventions as shown by completion of assignments. <br >
-13107  Accurately creates geometric entities (line, arc, circle, etc.) <br >
-13108  Precisely attaches entities to existing geometric entities (o-snap) <br >
-13203  Digitizes an existing drawing to CAD <br >
-13205  Draws 3-dimensional mesh figures <br >
-13206  Uses point filters to locate points in space <br >
-13208  Sets and uses elevation (or Z) and thickness to create simple 3D figures <br >
-<br >
-30002  Models on other than the world plane <br >
-30005  Creates models full scale <br >
-30006  Creates simple surfaces and solids <br >
-30007  Creates surfaces from polylines <br >
-30008  Creates solids from surfaces <br >
-30009  Creates surfaces from solids <br >
-30018  Imports and exports drawings/parts <br >
-30020  Uses layers to organize models <br >
+<b>Draws Geometric Entities: </b><br />
+11102  Show proficiency of lettering, sketching, construction geometry, scaling, and line conventions as shown by completion of assignments. <br />
+13107  Accurately creates geometric entities (line, arc, circle, etc.) <br />
+13108  Precisely attaches entities to existing geometric entities (o-snap) <br />
+13203  Digitizes an existing drawing to CAD <br />
+13205  Draws 3-dimensional mesh figures <br />
+13206  Uses point filters to locate points in space <br />
+13208  Sets and uses elevation (or Z) and thickness to create simple 3D figures <br />
+<br />
+30002  Models on other than the world plane <br />
+30005  Creates models full scale <br />
+30006  Creates simple surfaces and solids <br />
+30007  Creates surfaces from polylines <br />
+30008  Creates solids from surfaces <br />
+30009  Creates surfaces from solids <br />
+30018  Imports and exports drawings/parts <br />
+30020  Uses layers to organize models <br />
   </td>
  </tr>
  <tr>
   <td>
-   <b>Uses Part Libraries: </b><br >
-13110  Groups drawing elements together (block, wblock) <br >
-13111  Utilizes symbol libraries (insert, scale) <br >
+   <b>Uses Part Libraries: </b><br />
+13110  Groups drawing elements together (block, wblock) <br />
+13111  Utilizes symbol libraries (insert, scale) <br />
   </td>
  </tr>
  <tr>
   <td>
-<b>Annotates and Plots Drawings: </b><br >
-13112  Adds text information to the drawing (text) <br >
-13113  Dimensions drawings to ANSI standards <br >
-13114  Scales and plots drawings to plotter and printer <br >
-13213  Creates files to use in machining programs <br >
-30014  Creates scenes with lighting <br >
-30019  Uses object properties and textures <br >
-30021  Changes rendering options  <br >
-30022  Plots drawings <br >
-30023  Renders models <br >
-30024  Uses appropriate rendering techniques <br >
-30025  Creates appropriate renderings <br >
+<b>Annotates and Plots Drawings: </b><br />
+13112  Adds text information to the drawing (text) <br />
+13113  Dimensions drawings to ANSI standards <br />
+13114  Scales and plots drawings to plotter and printer <br />
+13213  Creates files to use in machining programs <br />
+30014  Creates scenes with lighting <br />
+30019  Uses object properties and textures <br />
+30021  Changes rendering options  <br />
+30022  Plots drawings <br />
+30023  Renders models <br />
+30024  Uses appropriate rendering techniques <br />
+30025  Creates appropriate renderings <br />
   </td>
  </tr>
  <tr>
   <td>
-<b>Creates Special Views: </b><br >
-13115  Draws section views.  Uses ANSI standard hatch patterns. <br >
-13117  Creates lines and arcs of varying widths <br >
-13118  Draws pictorial views <br >
-13209  Controls unneeded lines for 3D figures <br >
+<b>Creates Special Views: </b><br />
+13115  Draws section views.  Uses ANSI standard hatch patterns. <br />
+13117  Creates lines and arcs of varying widths <br />
+13118  Draws pictorial views <br />
+13209  Controls unneeded lines for 3D figures <br />
   </td>
  </tr>
  <tr>
   <td>
-<b>Modifies Drawings: </b><br >
-13109  Edits existing drawing (erase, trim, stretch, move) <br >
-13116  Modifies or creates chamfers, fillets, and rounds <br >
-30010  Performs point editing <br >
-30011  Performs Boolean operations <br >
-30012  Performs rail sweeps <br >
-30013  Performs splits and trims <br >
-30015  Applies planar curves to surface <br >
-30017  Arrays elements (curves, surfaces) <br >
-30026  Blends surfaces <br >
+<b>Modifies Drawings: </b><br />
+13109  Edits existing drawing (erase, trim, stretch, move) <br />
+13116  Modifies or creates chamfers, fillets, and rounds <br />
+30010  Performs point editing <br />
+30011  Performs Boolean operations <br />
+30012  Performs rail sweeps <br />
+30013  Performs splits and trims <br />
+30015  Applies planar curves to surface <br />
+30017  Arrays elements (curves, surfaces) <br />
+30026  Blends surfaces <br />
   </td>
  </tr>
 </table>
