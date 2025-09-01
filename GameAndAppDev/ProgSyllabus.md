@@ -243,7 +243,9 @@ Create and use dynamic data structures including but not limited to linked lists
  </tr>
 </table>
 
-In addition to the above competencies, Game Programming students have the following competencies. 
+## In addition to the above competencies, Game Programming students have the following competencies
+
+(Note that not all students will complete all of the competencies below.)
  
 <table>
  <tr>
