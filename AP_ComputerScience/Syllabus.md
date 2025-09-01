@@ -1,20 +1,44 @@
 # Advanced Placement (AP) Computer Science (CMP442) 
 
-CIP Code: 110201 
-State Course Code: 10158 
-Content Area Code: 110 
-Instructor: Mr. Miyoshi 
-Phone:  
-E-Mail:  
-Texts:
-Building Java Programs, by Reges & Stepp 
-(Fundamentals of Java, by Lambert & Osborne) 
-Other texts and supplements as needed 
-
-Online Resources:
-(no login credentials needed to access public GitHub resources) 
-https://github.com/MichaelTMiyoshi 
-https://github.com/MichaelTMiyoshi/JavaWithMiyoshi 
+<table>
+ <tr>
+  <td>CIP Code:</td>
+  <td>110201</td>
+ </tr>
+ <tr>
+  <td>State Course Code:</td>
+  <td>10158</td>
+ </tr>
+ <tr>
+  <td>Content Area Code:</td>
+  <td>110</td>
+ </tr>
+ <tr>
+  <td>Instructor:</td>
+  <td>Mr. Miyoshi</td>
+ </tr>
+ <tr>
+  <td>Phone:</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>E-Mail:</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>Texts:</td>
+  <td>Building Java Programs, by Reges & Stepp <br />
+(Fundamentals of Java, by Lambert & Osborne) <br />
+Other texts and supplements as needed <br /></td>
+ </tr>
+ <tr>
+  <td>Online Resources:</td>
+  <td>(no login credentials needed to access public GitHub resources) <br />
+[GitHub](https://github.com/MichaelTMiyoshi) <br />
+[Java with Miyoshi Repository](https://github.com/MichaelTMiyoshi/JavaWithMiyoshi) <br />
+  </td>
+ </tr>
+</table>
 
 ## Student Provided Materials 
 
