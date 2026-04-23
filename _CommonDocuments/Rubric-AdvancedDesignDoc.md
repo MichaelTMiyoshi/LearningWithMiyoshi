@@ -16,12 +16,20 @@ This is a reproduction of the advanced design document rubric.
     <td>4-Ample evidence</td>
   </tr>
   <tr>
-    <td>1. Product intro<br />2. (2X)<br />3. Conventions<br />4. (2X)</td>
-    <td>None of the four required elements are present.</td>
+    <td>1. Product intro (x 0.5) (only 2 points)</td>
+    <td>Product introduction is missing.</td>
+    <td>Product introduction is minimalist.</td>
+    <td>Product introduction is adequate.</td>
+    <td>Product introduction gets the reader interested in the product.</td>
+    <td>Product introduction entices the reader to read the document as well as introducing the product.</td>
+  </tr>
+  <tr>
+    <td>Conventions (x 0.5) (only 2 points)</td>
+    <td>Writing conventions are not followed.</td>
     <td>Writing conventions are somewhat followed.</td>
+    <td>Writing conventions are usually followed.</td>
     <td>Writing conventions are nearly always followed.</td>
-    <td>Product is somewhat introduced.</td>
-    <td>Product is introduced with enough detail for reader to understand what is being designed.</td>
+    <td>Writing conventions are always followed.</td>
   </tr>
   <tr>
     <td>Product Goals (What do you want to accomplish?)</td>
