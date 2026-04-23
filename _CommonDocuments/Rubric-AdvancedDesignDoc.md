@@ -16,7 +16,7 @@ This is a reproduction of the advanced design document rubric.
     <td>4-Ample evidence</td>
   </tr>
   <tr>
-    <td>1. Product intro (x 0.5) (only 2 points)</td>
+    <td>Product intro (x 0.5) (only 2 points)</td>
     <td>Product introduction is missing.</td>
     <td>Product introduction is minimalist.</td>
     <td>Product introduction is adequate.</td>
