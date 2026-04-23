@@ -16,7 +16,7 @@ This is a reproduction of the advanced design document rubric.
     <td>4-Ample evidence</td>
   </tr>
   <tr>
-    <td>Product intro (x 0.5) (only 2 points)</td>
+    <td>Product intro <br>(x 0.5) <br>(only 2 points)</td>
     <td>Product introduction is missing.</td>
     <td>Product introduction is minimalist.</td>
     <td>Product introduction is adequate.</td>
@@ -24,7 +24,7 @@ This is a reproduction of the advanced design document rubric.
     <td>Product introduction entices the reader to read the document as well as introducing the product.</td>
   </tr>
   <tr>
-    <td>Conventions (x 0.5) (only 2 points)</td>
+    <td>Conventions <br>(x 0.5) <br>(only 2 points)</td>
     <td>Writing conventions are not followed.</td>
     <td>Writing conventions are somewhat followed.</td>
     <td>Writing conventions are usually followed.</td>
