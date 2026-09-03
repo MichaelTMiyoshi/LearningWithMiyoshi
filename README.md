@@ -80,6 +80,19 @@ Another note is that grades in my class are not static.  In other words, student
 
 One other note on the percentages.  The competency grades for Game & App Dev and Adv Arch & Engr Des are not really 0%.  They are evaluated with a portfolio.  And when I implement the portfolio for my programming students, they and the advanced architectural and engineering design students will write a reflection on their competencies/skill based on the appropriate rubric and reflection document.
 
+## Grading Criteria for Programming Assignments and Projects
+
+The grading criteria for both simple and complex programming projects is as follows:
+
+Criterion | Percentage
+--------- | ----------
+It works and is written in the required language using proper techniques, including comments | 25%
+The student can explain the code and answer any clarifying questions | 25%
+The student has worked in class and has a GitHub commit history that shows the progress of the project | 25%
+The student has not used Artificial Intelligence (AI) to create, write, edit, optimize, document code | 25%
+
+Students who are found using AI on their programming assignments and projects will be subject to the AI policies of the school.
+
 ### Note to educators
 
 If you are an educator, feel free to use any of the materials that I have here.  It would be great if you documented your source.  (Which is why I license the repository with the MIT license.)  I have surely not just created my stuff completely from my own brain, but I do not know exactly where everything come from.  I do have a resources for educators section that tries to at least document some important resources that have shaped my thinking about education and learning.  Or that I use in my classroom.  (I repeated that below, but I may create a separate page if the section gets too long.)
